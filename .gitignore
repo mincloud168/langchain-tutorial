@@ -1,5 +1,6 @@
 #ignore the '' directory
 venv/
+__pycache__/
 
 #Ignore all .secret files
 *.secret
